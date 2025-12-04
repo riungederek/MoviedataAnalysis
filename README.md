@@ -1,13 +1,33 @@
-Movie Data Analysis Project
+This repository contains my data analytics projects built using Python, Pandas, Matplotlib, and Jupyter Notebooks.
 
-This project analyzes a dataset of 3,000 movies to answer business questions about the film industry.
+1. Movie Data Analysis
 
+Analyzes a dataset of ~3,000 movies.
+Includes:
 
-Tools Used
-* Python
-* Pandas (Data Cleaning)
-* Seaborn & Matplotlib (Visualization)
+Data cleaning
 
-Key Findings
-* The Avengers was the highest revenue movie in this dataset.
-* Friday is the most popular day for movie releases.
+Revenue and popularity trends
+
+Visualizations (histograms, bar charts, etc.)
+
+Insights into high-performing movies
+
+Notebook: PythonMovies.ipynb
+
+2. Microsoft Stock Data Analysis
+
+Works with Microsoft (MSFT) historical stock data.
+Includes:
+
+Time-series visualization
+
+Price trends
+
+Basic statistical summary
+
+Moving averages and pattern exploration
+
+Notebook: Quant.ipynb
+
+Tools Used: Python, Pandas, Matplotlib,Jupyter Notebook
